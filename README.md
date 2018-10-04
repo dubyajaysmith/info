@@ -8,11 +8,18 @@
 
 [Emoji in Commit](https://gist.github.com/parmentf/035de27d6ed1dce0b36a)
 
-### Bundlers
-
-[Parcel](https://github.com/parcel-bundler/parcel)
-
 ## VS Code
 
 [Force Code](https://github.com/daishi4u/ForceCode)
 
+[Gist (reuse code inline, etc.)](https://github.com/kenhowardpdx/vscode-gist)
+
+## Watch
+
+[Solid](https://github.com/solid/solid)
+
+## Web Tools
+
+[Bundler: Parcel](https://github.com/parcel-bundler/parcel)
+
+[Generator: Parcel](https://www.npmjs.com/package/generator-parcel)
