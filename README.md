@@ -23,3 +23,7 @@
 [Bundler: Parcel](https://github.com/parcel-bundler/parcel)
 
 [Generator: Parcel](https://www.npmjs.com/package/generator-parcel)
+
+## JS
+[Great Guide for modern JS development](https://github.com/airbnb/javascript)
+[33 Concepts](https://github.com/leonardomso/33-js-concepts)
